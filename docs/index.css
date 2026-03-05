@@ -1,0 +1,138 @@
+html,
+body {
+  line-height: 26px;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 350;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.window-controls {
+  margin-top: 14px;
+}
+
+.docsify-copy-code-button{
+  background-color: red !important;
+  border-radius: 5px !important;
+}
+
+code {
+  color: #d63200 !important;
+  background-color: #f8f8f8 !important;
+  font-family: "Roboto Mono", Monaco, courier, monospace !important;
+  -webkit-font-smoothing: initial;
+  margin: 0 2px !important;
+  border-radius: 2px !important;
+}
+
+pre {
+  border-radius: 5px;
+  box-shadow: rgb(0 0 0 / 30%) 0px 10px 30px;
+  background-color: #282c34 !important;
+}
+
+.lang-js, .lang-html, .lang-sh, .lang-css {
+  background-color: rgb(40, 44, 52) !important;
+  color: #e06c75 !important;
+  font-variant-ligatures: contextual !important;
+  -webkit-tap-highlight-color: transparent !important;
+  font-feature-settings: "calt" !important;
+  font-family: Hack, monospace !important;
+  font-size: 14px !important;
+  padding-top: 0em !important;
+}
+
+.lang-text{
+  background-color: rgb(40, 44, 52) !important;
+  margin-top: -20px !important;
+  color: #f8f8f8 !important;
+  font-variant-ligatures: contextual !important;
+  -webkit-tap-highlight-color: transparent !important;
+  font-feature-settings: "calt" !important;
+  font-family: Hack, monospace !important;
+  font-size: 14px !important;
+}
+
+.lang-js span {
+  font-variant-ligatures: contextual;
+  -webkit-tap-highlight-color: transparent;
+  font-feature-settings: "calt";
+  font-family: Hack, monospace;
+  font-size: 14px;
+}
+
+.keyword {
+  color: #c678dd !important;
+}
+
+.operator {
+  color: #56b6c2 !important;
+}
+
+.punctuation {
+  color: #abb2bf !important;
+}
+
+.parameter {
+  color: #e5c07b !important;
+}
+
+.atom {
+  color: #d19a66 !important;
+}
+
+.number {
+  color: #d19a66 !important;
+}
+
+.function {
+  color: #56b6c2 !important;
+}
+
+.qualifier {
+  color: #d19a66 !important;
+}
+
+.variable {
+  color: #e06c75 !important;
+}
+
+.string {
+  color: #98c379 !important;
+}
+
+.meta {
+  color: #abb2bf !important;
+}
+
+.bracket {
+  color: #abb2bf !important;
+}
+
+.comment {
+  color: #5c6370 !important;
+  font-style: italic;
+}
+
+.error {
+  color: #e06c75 !important;
+}
+
+.variable {
+  color: #828997 !important;
+}
+
+.property {
+  color: #abb2bf !important;
+}
+
+.atom {
+  color: #56b6c2 !important;
+}
+
+.builtin {
+  color: #56b6c2 !important;
+}
+
+.variable {
+  color: #56b6c2 !important;
+}
