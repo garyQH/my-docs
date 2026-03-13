@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2022-01-25 11:15:43
+ * @LastEditTime: 2026-03-13 23:38:16
  * @LastEditors: xl
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -38,6 +38,10 @@
   - [数组去重](65386923.md)
   - [JS 中的 DOM](296494422.md)
   - [compose 函数](926857849.md)
+
+- Promise
+
+  - [Promise 的异步遍历](45121323.md)
 
 - HTTP 和 HTTPS
 
