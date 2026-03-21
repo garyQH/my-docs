@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2026-03-13 23:38:16
+ * @LastEditTime: 2026-03-21 16:55:58
  * @LastEditors: xl
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -18,6 +18,7 @@
 
   - [Webpack 的组成部分详解](6958275945.md)
   - [webpack 的 externals](29386893.md)
+  - [Webpack 持久化缓存（Persistent Caching）是如何缩短二次构建时间的？](4513153132.md)
 
 - 数据结构
 
