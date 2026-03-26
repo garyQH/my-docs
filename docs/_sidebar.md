@@ -29,6 +29,7 @@
 
   - [首次绘制的一系列动作](92645987593.md)
   - [BFC](29349834.md)
+  - [Paint Worklet](433412423.md)
 
 - JS
 
@@ -62,6 +63,7 @@
   - [微前端应用](119134134.md)
   - [Web Components](644661361.md)
   - [qiankun](7864416412.md)
+  - [WebAssembly](5646434.md)
 
 - Vue
 
@@ -120,3 +122,9 @@
 * Server
 
   - [Nginx 在前端的应用和优化](4234234.md)
+
+* AI
+
+  - [LLM、Agent、MCP 与 Skills](931634541.md)
+
+ 
