@@ -19,7 +19,9 @@
 
   - [Webpack 的组成部分详解](6958275945.md)
   - [webpack 的 externals](29386893.md)
-  - [Webpack 持久化缓存（Persistent Caching）是如何缩短二次构建时间的？](4513153132.md)
+  - [Webpack 持久化缓存](4513153132.md)
+  - [Vite](951354535.md)
+  - [Esbuild 为什么这么猛？](1653541435.md)
 
 - 数据结构
 
@@ -30,6 +32,7 @@
   - [首次绘制的一系列动作](92645987593.md)
   - [BFC](29349834.md)
   - [Paint Worklet](433412423.md)
+  - [Sass、Scss、Less、PostCSS](71314536536.md)
 
 - JS
 
@@ -122,6 +125,7 @@
 * Server
 
   - [Nginx 在前端的应用和优化](4234234.md)
+  - [Serverless](16343612.md)
 
 * AI
 
